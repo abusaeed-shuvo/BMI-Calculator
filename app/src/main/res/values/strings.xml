@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="bmi_info">"BMI status will be shown here."</string>
+</resources>
